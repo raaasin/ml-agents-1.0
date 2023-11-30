@@ -1,4 +1,4 @@
-# ML-Agents Reinforcement Learning Project
+# ML-Agents Reinforcement Learning
 
 Welcome to the ML-Agents Reinforcement Learning project! This project utilizes Unity's ML-Agents toolkit in conjunction with OpenAI's Gym to explore reinforcement learning algorithms in a simulated environment.
 
